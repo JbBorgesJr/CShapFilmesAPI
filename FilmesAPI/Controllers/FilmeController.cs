@@ -41,3 +41,7 @@ namespace FilmesApi.Controllers
         }
     }
 }
+//Instalar seguintes plugin do NuGet
+//Microsoft.EntityFrameworkCore
+//Microsoft.EntityFrameworkCore.Tools
+//MySql.Data.EntityFrameworkCore
